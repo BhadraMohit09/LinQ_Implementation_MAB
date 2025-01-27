@@ -44,7 +44,7 @@ If you'd like to contribute to this project, please fork the repository and crea
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 > ### Contact:
-For any queries or feedback, feel free to open an issue in this repository or contact me directly at [your-email@example.com].
+For any queries or feedback, feel free to open an issue in this repository or contact me directly at contactmab09@gmail.com.
 
 ---
 > [!TIP]
