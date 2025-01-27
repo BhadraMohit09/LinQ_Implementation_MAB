@@ -25,7 +25,7 @@ This project demonstrates the use of Language Integrated Query (LINQ) in C#. It 
 - Visual Studio (or any C# IDE)
 - .NET Framework (for compilation and running the project)
 
-### Steps:
+> ### Steps:
 1. Clone the repository to your local machine using `git clone https://github.com/yourusername/your-repository-name.git`.
 2. Open the project in Visual Studio or any C# IDE of your choice.
 3. Build the project using `Ctrl + Shift + B` or the "Build" menu.
