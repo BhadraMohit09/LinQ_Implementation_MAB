@@ -3,7 +3,7 @@
 > ### Description:
 This project demonstrates the use of Language Integrated Query (LINQ) in C#. It explores various LINQ functionalities like querying collections, transforming data, and performing filtering, grouping, and sorting operations. The project showcases LINQ’s ability to simplify complex data operations with minimal code, making it easier to interact with different data sources like arrays, lists, and databases.
 
-## Features:
+> ### Features:
 - Querying data using LINQ methods (`Select`, `Where`, `OrderBy`, etc.)
 - Filtering, grouping, and sorting operations
 - Working with different data types (arrays, lists, dictionaries)
