@@ -31,7 +31,7 @@ This project demonstrates the use of Language Integrated Query (LINQ) in C#. It 
 3. Build the project using `Ctrl + Shift + B` or the "Build" menu.
 4. Run the project using `Ctrl + F5` or the "Start Without Debugging" option.
 
-## Example Use Cases:
+> ### Example Use Cases:
 - **Data Transformation**: Converting raw data into structured information for better usability.
 - **Filtering Collections**: Extracting specific data based on user-defined conditions.
 - **Sorting Data**: Organizing data by specific criteria.
