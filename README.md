@@ -1,6 +1,5 @@
 > ### LINQ Project
 
-> ### Description:
 This project demonstrates the use of Language Integrated Query (LINQ) in C#. It explores various LINQ functionalities like querying collections, transforming data, and performing filtering, grouping, and sorting operations. The project showcases LINQ’s ability to simplify complex data operations with minimal code, making it easier to interact with different data sources like arrays, lists, and databases.
 
 > ### Features:
@@ -44,7 +43,7 @@ If you'd like to contribute to this project, please fork the repository and crea
 > ### License:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact:
+> ### Contact:
 For any queries or feedback, feel free to open an issue in this repository or contact me directly at [your-email@example.com].
 
 ---
