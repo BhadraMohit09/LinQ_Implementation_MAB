@@ -14,7 +14,7 @@ This project demonstrates the use of Language Integrated Query (LINQ) in C#. It 
 - Optimized and clean code with minimal boilerplate
 - Real-world examples and use cases of LINQ in practical scenarios
 
-## Technologies Used:
+> ### Technologies Used:
 - **C#**
 - **LINQ (Language Integrated Query)**
 - **.NET Framework**
