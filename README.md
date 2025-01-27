@@ -19,7 +19,7 @@ This project demonstrates the use of Language Integrated Query (LINQ) in C#. It 
 - **LINQ (Language Integrated Query)**
 - **.NET Framework**
 
-## Setup:
+> ### Setup:
 
 ### Prerequisites:
 - Visual Studio (or any C# IDE)
