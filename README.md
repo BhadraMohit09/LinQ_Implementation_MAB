@@ -41,7 +41,7 @@ This project demonstrates the use of Language Integrated Query (LINQ) in C#. It 
 > ### Contributing:
 If you'd like to contribute to this project, please fork the repository and create a pull request with your proposed changes. Ensure that your changes are well-documented, and follow the coding standards used in this project.
 
-## License:
+> ### License:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact:
