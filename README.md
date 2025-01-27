@@ -48,5 +48,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any queries or feedback, feel free to open an issue in this repository or contact me directly at [your-email@example.com].
 
 ---
-
-Feel free to tweak it further to fit your specific needs!
+> [!TIP]
+> Feel free to tweak it further to fit your specific needs!
