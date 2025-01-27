@@ -38,7 +38,7 @@ This project demonstrates the use of Language Integrated Query (LINQ) in C#. It 
 - **Aggregating Data**: Calculating sums, averages, or counts from large datasets.
 - **Joining Data**: Combining information from multiple collections into a single result.
 
-## Contributing:
+> ### Contributing:
 If you'd like to contribute to this project, please fork the repository and create a pull request with your proposed changes. Ensure that your changes are well-documented, and follow the coding standards used in this project.
 
 ## License:
